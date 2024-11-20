@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b62fba4b78d8c5478189cc050bc0ffa, type: 3}
+  m_Name: BoeDialogue
+  m_EditorClassIdentifier: 
+  portraits:
+  - {fileID: 21300000, guid: c533532388c02a449971923b8a4bda32, type: 3}
+  lines:
+  - //Boe
+  - '**0'
+  - Hi! I'm Boe.
+  - We're so glad that we live here.
+  - I will guide you how to proceed to the battle.
+  - Watch the enemies as this area goes dangerous.
+  - Press f to attack!
+  - If you run out of hearts, you lose!
+  - Defeat all enemies, and you win!
+  - Proceed if you can!
+  closingMessage: []
